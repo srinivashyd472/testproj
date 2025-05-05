@@ -12,7 +12,7 @@ provider "azurerm" {
   
 }
 # if you need Backend
-#  pre requests : resourcegroup , storage account and bucket
+#  pre requests : resourcegroup , storage account and container
 # terraform {
 #   backend "azurerm" {
 #     resource_group_name  = "Kantar"
