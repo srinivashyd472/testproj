@@ -1,0 +1,13 @@
+rgname = "proj1"
+location = "centralindia"
+sg_account_name = "websgsrknrsg395"  # must be globally unique
+vnet_name = "ebvnet2"
+vnetaddress = ["10.0.0.0/16"]
+subnet_name = "webstubnet2"
+subnetaddress = ["10.0.1.0/24"]
+pvtend_subnet_name = "webpesesubt2"
+endpsubnetaddress = ["10.0.2.0/24"]
+pvtend_name = "storandint2"
+pvtservice_connection_name = "stondsvcon2"
+appservice_plan_name = "wbaplan2"
+appservice_name = "wedrpssvf"
